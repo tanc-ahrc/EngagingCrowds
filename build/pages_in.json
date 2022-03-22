@@ -46,6 +46,21 @@
   },
   "Data": {
     "title": "Data",
-    "content": "<p>Data produced by the Engaging Crowds' Citizen Research Projects. Coming soon.</p>"
+    "content": "As part of Engaging Crowds (2020-22), the project team created three citizen research projects on the <a href='https://www.zooniverse.org/'>Zooniverse</a> platform.  This page provides access to the document images and the data transcribed by volunteers for the following projects. We are hugely grateful to everyone who contributed."
+  },
+  "HMS NHS Data": {
+    "title": "HMS NHS: The Nautical Health Service",
+    "parent": "Data",
+    "content": "data_hms_nhs.html"
+  },
+  "Scarlets and Blues Data": {
+    "title": "Scarlets and Blues",
+    "parent": "Data",
+    "content": "data_sb.html"
+  },
+  "RBGE Herbarium": {
+    "title": "The RBGE Herbarium: Exploring Gesneriaceae, the African violet family",
+    "parent": "Data",
+    "content": "data_rbge.html"
   }
 }
