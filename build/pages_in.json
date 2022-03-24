@@ -62,5 +62,10 @@
     "title": "The RBGE Herbarium: Exploring Gesneriaceae, the African violet family",
     "parent": "Data",
     "content": "data_rbge.html"
+  },
+  "Engagement Aanlysis DAta": {
+    "title": "Engagement Analysis Charts",
+    "parent": "Data",
+    "content": "data_engagement.html"
   }
 }
