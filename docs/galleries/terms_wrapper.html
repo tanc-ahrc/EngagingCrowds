@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title>Scarlets and Blues Image</title>
+  </head>
+  <body>
+  <div style='display:flex'>
+    <div style='min-width:25vw;max-width:50vw'>
+      <p>© Images used in Scarlets and Blues are reproduced by permission of The National Archives, UK.</p>
+      <p>The National Archives does not guarantee the accuracy, completeness or fitness for the purpose of the information provided. Images may be used only for purposes of research, private study or education. Applications for any other use should be made to The National Archives Image Library.</p>
+    </div>
+    <img id='z_image' style='max-height:100vh;float:right'/>
+  </div>
+    <script>
+      document.getElementById('z_image').setAttribute('src', new URLSearchParams(window.location.search).get('img'))
+    </script>
+  </body>
+</html>
