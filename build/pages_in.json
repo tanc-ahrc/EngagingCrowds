@@ -64,7 +64,7 @@
     "content": "data_rbge.html"
   },
   "Engagement Aanlysis Data": {
-    "title": "Engagement Analysis Charts",
+    "title": "Engagement Analysis",
     "parent": "Data",
     "content": "data_engagement.html"
   }
