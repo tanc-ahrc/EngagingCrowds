@@ -8,3 +8,5 @@ Engaging Crowds explores the current and potential practice of engaging diverse 
 The project is led by The National Archives, with the Zooniverse team at the University of Oxford, Royal Botanic Gardens Edinburgh, and Royal Museums Greenwich. All partners have significant experience of conducting citizen research projects, not least using Zooniverse, a free, open source platform with more than 1.9 million volunteers worldwide. Engaging Crowds aims to promote open discovery and research, interdisciplinary working across sectors and equality, diversity and inclusion.
 
 This project is a Foundation project within the the [AHRC](https://ahrc.ukri.org/) funded [Towards a National Collection Programme](https://ahrc.ukri.org/research/fundedthemesandprogrammes/tanc-opening-uk-heritage-to-the-world/).
+
+Data and other resources provided via this repository are subject to licensing and copyright terms described on the project site itself. See especially the pages linked from the [Data tab](https://tanc-ahrc.github.io/EngagingCrowds/Data.html).
